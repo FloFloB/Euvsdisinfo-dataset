@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this data set, please cite it as below."
+authors:
+- family-names: "Barbaro"
+  given-names: "Florian"
+  orcid: "https://orcid.org/0000-0003-0767-2670"
+- family-names: "Skumanich"
+  given-names: "Andy"
+title: "Euvsdisinfo dataset"
+version: 1.0.0
+doi: 10.17632/yhdtkszvgp.1
+date-released: 2023-02-01
+url: "https://github.com/FloFloB/Euvsdisinfo-dataset"
