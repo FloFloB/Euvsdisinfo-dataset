@@ -10,7 +10,7 @@ EUvsDisinfo is the only searchable, open-source repository of its kind, and has 
 
 As the data is not directly accessible for analysis, we scraped it using the Selenium and Beautiful soup Python’s packages. We retrieved 14 497 cases of Disinformation and their disproofs (information) from the 6th of January 2015 to the 22nd of November 2022.
 
-Each row has seven attributes:
+Each case has seven attributes:
 
 1. Date: Date of publication;
 2. Links: Link to the article in the EUvsDisinfo database;
@@ -19,3 +19,15 @@ Each row has seven attributes:
 5. Country: Target countries;
 6. Disinformation: Text of Disinformation;
 7. Information: Factual Information.
+
+Word Cloud of Disinformation cases:
+
+<p align="center">
+  <img src="/IMG/worldcloud_russian_propaganda.png" />
+</p>
+
+Most discussed countries by the Russian disinformation over time:
+
+<p align="center">
+  <img src="/IMG/Countriesbypropaganda.png" />
+</p>
