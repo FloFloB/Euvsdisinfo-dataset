@@ -9,3 +9,13 @@ EUvsDisinfo is the only searchable, open-source repository of its kind, and has 
 2. To help citizens to develop resistance to digital information and media manipulation.
 
 As the data is not directly accessible for analysis, we scraped it using the Selenium and Beautiful soup Python’s packages. We retrieved 14 497 cases of Disinformation and their disproofs (information) from the 6th of January 2015 to the 22nd of November 2022.
+
+Each row has seven attributes:
+
+1. Date: Date of publication;
+2. Links: Link to the article in the EUvsDisinfo database;
+3. Title: Title of the disinformation article;
+4. Outlets: Outlets of propagation;
+5. Country: Target countries;
+6. Disinformation: Text of Disinformation;
+7. Information: Factual Information.
