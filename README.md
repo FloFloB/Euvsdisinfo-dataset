@@ -1,5 +1,7 @@
 # Euvsdisinfo-dataset
 
+This dataset was used in the article Addressing socially destructive disinformation on the web with advanced AI tools: Russia as a case study presented at the WWW '23 Companion: Companion Proceedings of the ACM Web Conference 2023, available [here](https://dl.acm.org/doi/10.1145/3543873.3587348).
+
 EUvsDisinfo is the flagship project of the European External Action Service’s East StratCom Task Force. It was established in 2015 to better forecast, address, and respond to the Russian Federation’s ongoing disinformation campaigns affecting the European Union, its Member States, and countries in the shared neighbourhood.
 Using data analysis and media monitoring services in 15 languages, EUvsDisinfo identifies, compiles, and exposes disinformation cases originating in pro-Kremlin media that are propagated across the EU and Eastern Partnership countries. 
 
